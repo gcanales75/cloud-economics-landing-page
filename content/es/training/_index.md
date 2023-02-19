@@ -7,30 +7,20 @@ pre = "<b>2. </b>"
 
 Aqui va la explicación de que se busca con el entrenamiento
 
-1. - Cloud Economics Accreditation
-2. - AWS Partner Migration Business Case
-3. - Cloud Economics Overview
-4. - Financials Overview
-5. - Cost Optimization Levers
-6. - Cloud Economics Tips & Tricks
-7. - Tools
-8. - Strategic Investments
-9. - Hands on Business Case
+1. [Cloud Economics Accreditation]({{< ref "accred.md" >}})
 
-[Cloud Economics Accreditation]({{< ref "accred.md" >}})
+1. [AWS Partner Migration Business Case]({{< ref "bc.md" >}})
 
-[AWS Partner Migration Business Case]({{< ref "bc.md" >}})
+1. [Cloud Economics Overview]({{< ref "ce-over.md" >}})
 
-[Cloud Economics Overview]({{< ref "ce-over.md" >}})
+1. [Financials Overview]({{< ref "fin-over.md" >}})
 
-[Financials Overview]({{< ref "fin-over.md" >}})
+1. [Cost Optimization Levers]({{< ref "cost-opt.md" >}})
 
-[Cost Optimization Levers]({{< ref "cost-opt.md" >}})
+1. [Cloud Economics Tips & Tricks]({{< ref "tips.md" >}})
 
-[Cloud Economics Tips & Tricks]({{< ref "tips.md" >}})
+1. [Tools]({{< ref "too.md" >}})
 
-[Tools]({{< ref "too.md" >}})
+1. [Strategic Investments]({{< ref "invest.md" >}})
 
-[Strategic Investments]({{< ref "invest.md" >}})
-
-[Hands on Business Case]({{< ref "hands.md" >}})
+1. [Hands on Business Case]({{< ref "hands.md" >}})

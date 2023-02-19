@@ -50,7 +50,7 @@ defaultContentLanguage = 'es'
     contentDir = "content/es"
     title = "AWS Cloud Economics"
     weight = 1
-    languageName = "Spanish"
+    languageName = "Español"
   [Languages.pt]
     contentDir = "content/pt"
     title = "AWS Cloud Economics"
