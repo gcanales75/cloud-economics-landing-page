@@ -13,3 +13,12 @@ Aquí aprenderás los diferentes tipos de caso de negocio, las herramientas nece
 
 **¿Qué es AWS?**
 
+{{< youtube x2vrg7HuM6g >}}
+
+**AWS Cloud Value Framework**
+
+{{< youtube hE59vCkpBBE >}}
+
+**Forrester Explains the Total Economic Impact™ of Working with AWS Customer Enablement Services**
+
+{{< youtube CtLHeK0_iiY >}}
