@@ -17,4 +17,4 @@ Aqui va la explicación de que se busca con el entrenamiento
 8. - Strategic Investments
 9. - Hands on Business Case
 
-[Cloud Economics Accreditation]({{< ref "acceditation/_index.md" >}})
+[Cloud Economics Accreditation]({{< ref "es/training/acceditation/_index.md" >}})
