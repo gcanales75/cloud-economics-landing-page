@@ -1,8 +1,6 @@
 +++ 
-title = "3. - Cloud Economics Overview" 
+title = "3. - El resumen de Cloud Economics" 
 weight = 30
 +++
 
-*ESPAÑOL*
-
-We will review a summary of what we have learned from cloud economics at the moment as a guide to being ready for the next content
+Revisaremos un resumen de lo que hemos aprendido de la economía de la nube en este momento como guía para prepararnos para el próximo contenido.

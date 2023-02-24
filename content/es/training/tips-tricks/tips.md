@@ -3,6 +3,4 @@ title = "6. - Cloud Economics Tips & Tricks"
 weight = 60
 +++
 
-*ESPAÑOL*
-
-In this course we will review the best practices that Cloud Economics LatAm has collected
+En este curso, revisaremos las mejores prácticas que Cloud Economics LatAm ha recopilado

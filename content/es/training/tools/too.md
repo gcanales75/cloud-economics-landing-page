@@ -1,8 +1,6 @@
 +++ 
-title = "7. - Tools" 
+title = "7. - Herramientas" 
 weight = 70
 +++
 
-*ESPAÑOL*
-
-This is a high level description on how and when to use Migration Evaluator & Migration Portfolio Assessment
+Esta es una descripción de alto nivel sobre cómo y cuándo utilizar Migration Evaluator y Migration Portfolio Assessment para soportar un caso de negocios.
