@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recursos adicionales on AWS Cloud Economics</title>
+    <link>/es/resources/</link>
+    <description>Recent content in Recursos adicionales on AWS Cloud Economics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="/es/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. - Business Value</title>
+      <link>/es/resources/biz-value/biz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/resources/biz-value/biz/</guid>
+      <description>ESPAÑOL
+¿Qué valor de negocio puedo esperar lograr con el uso de AWS?
+Mejores Practicas para una Migración exitosa en Latam</description>
+    </item>
+    
+    <item>
+      <title>2. - Cloud Financial Management</title>
+      <link>/es/resources/cfm/cfm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/resources/cfm/cfm/</guid>
+      <description>ESPAÑOL
+Getting Started with Cloud Financial Management
+Put your cloud cost on track
+Manage and control your AWS costs
+Optimize your AWS cost and usage with Cloud Intelligence Dashboards
+Simplify your AWS cost estimation
+Unlocking the potential of AWS Cost Explorer</description>
+    </item>
+    
+    <item>
+      <title>3. - Migration Acceleration Program</title>
+      <link>/es/resources/map/map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/resources/map/map/</guid>
+      <description>Migration Acceleration Program (MAP)
+Migration Acceleration Program Overview
+Migration Acceleration Program (MAP) First Call Deck
+AWS Partner MAP Walking Deck
+MAP Tagging video:</description>
+    </item>
+    
+    <item>
+      <title>4. - Tools</title>
+      <link>/es/resources/tools/too1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/resources/tools/too1/</guid>
+      <description>ESPAÑOL</description>
+    </item>
+    
+  </channel>
+</rss>

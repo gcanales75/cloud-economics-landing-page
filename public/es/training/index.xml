@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entrenamiento on AWS Cloud Economics</title>
+    <link>/es/training/</link>
+    <description>Recent content in Entrenamiento on AWS Cloud Economics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="/es/training/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. - Cloud Economics Accreditation</title>
+      <link>/es/training/accreditation/accred/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/training/accreditation/accred/</guid>
+      <description>ESPAÑOL
+This course teaches you about cost savings and data center economics in relation to cloud computing. The modules cover the Cloud Value Framework pillars, cloud financial management key concepts and best practices, and the Migration Portfolio Assessment (MPA) tool. After completing all modules and passing the course assessment, AWS Partner Network (APN) Partners receive the AWS Cloud Economics Accreditation.</description>
+    </item>
+    
+    <item>
+      <title>2. - AWS Partner Migration Business Case</title>
+      <link>/es/training/business-case/bc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/training/business-case/bc/</guid>
+      <description>En este curso, aprenderá las mejores prácticas no técnicas para migrar cargas de trabajo a gran escala a la nube de AWS. También analizará los tres tipos de análisis que resume los argumentos comerciales para migrar a AWS.</description>
+    </item>
+    
+    <item>
+      <title>3. - El resumen de Cloud Economics</title>
+      <link>/es/training/ce-overview/ce-over/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/training/ce-overview/ce-over/</guid>
+      <description>Revisaremos un resumen de lo que hemos aprendido de la economía de la nube en este momento como guía para prepararnos para el próximo contenido.</description>
+    </item>
+    
+    <item>
+      <title>4. - Importancia de las Finanzas</title>
+      <link>/es/training/fin-overview/fin-over/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/training/fin-overview/fin-over/</guid>
+      <description>Aprenderás lo que es importante escuchar para los CXO, las métricas financieras más importantes para el análisis de proyectos y la toma de decisiones</description>
+    </item>
+    
+    <item>
+      <title>5. - Cost Optimization Levers</title>
+      <link>/es/training/cost-optimization/cost-opt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/training/cost-optimization/cost-opt/</guid>
+      <description>Conozca algunas técnicas y directrices sobre cómo AWS le permite tomar el control de los costos y optimizar continuamente sus gastos, al tiempo que crea aplicaciones modernas y escalables para satisfacer sus necesidades</description>
+    </item>
+    
+    <item>
+      <title>6. - Cloud Economics Tips &amp; Tricks</title>
+      <link>/es/training/tips-tricks/tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/training/tips-tricks/tips/</guid>
+      <description>En este curso, revisaremos las mejores prácticas que Cloud Economics LatAm ha recopilado</description>
+    </item>
+    
+    <item>
+      <title>7. - Herramientas</title>
+      <link>/es/training/tools/too/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/training/tools/too/</guid>
+      <description>Esta es una descripción de alto nivel sobre cómo y cuándo utilizar Migration Evaluator y Migration Portfolio Assessment para soportar un caso de negocios.</description>
+    </item>
+    
+    <item>
+      <title>8 . - Inversiones Estrategicas</title>
+      <link>/es/training/investments/invest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/training/investments/invest/</guid>
+      <description>ESPAÑOL
+Programa de aceleración de la migración Programa de descuentos ejecutivos Inversión en AWS </description>
+    </item>
+    
+    <item>
+      <title>9 . - Ejercicio de un Caso de Negocio</title>
+      <link>/es/training/hands-on/hands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/training/hands-on/hands/</guid>
+      <description>Siga la siguiente actividad y, cuando esté listo, envíe un correo electrónico a (añadir correo electrónico) para que un miembro del equipo de Cloud Economics valide su caso de negocio, lo ayude con sus dudas y lo apoye hasta el final de este viaje.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,134 @@
+[
+{
+	"uri": "/es/resources/biz-value/biz/",
+	"title": "1. - Business Value",
+	"tags": [],
+	"description": "",
+	"content": "ESPAÑOL\n¿Qué valor de negocio puedo esperar lograr con el uso de AWS?\nMejores Practicas para una Migración exitosa en Latam\n"
+},
+{
+	"uri": "/es/training/accreditation/accred/",
+	"title": "1. - Cloud Economics Accreditation",
+	"tags": [],
+	"description": "",
+	"content": "ESPAÑOL\nThis course teaches you about cost savings and data center economics in relation to cloud computing. The modules cover the Cloud Value Framework pillars, cloud financial management key concepts and best practices, and the Migration Portfolio Assessment (MPA) tool. After completing all modules and passing the course assessment, AWS Partner Network (APN) Partners receive the AWS Cloud Economics Accreditation.\n"
+},
+{
+	"uri": "/es/welcome/",
+	"title": "Bienvenido",
+	"tags": [],
+	"description": "",
+	"content": "Bienvenido al Programa de Entrenamiento de Cloud Economics. Descripción\nBienvenido al Programa de entrenamiento de Cloud Economics (CE) está diseñado para explicarte la práctica que utiliza el equipo de AWS en LatAm para cuantificar el valor de negocio de mover cargas de trabajo hacia AWS. Como bien sabes CE está compuesto de dos componentes Business Value (BV) y Cloud Financial Management (CFM). Este curso se enfoca inicialmente en BV y brinda una introducción a CFM, aquí aprenderás los diferentes tipos de caso de negocio, las herramientas necesarias para construirlo y los optimization levers para presentar la mejor oferta costos para el cliente. También tendrás la oportunidad de practicar un caso de negocio supervisado por el equipo de CE.\nEl programa abarca una amplia gama de temas, de mejores prácticas de cálculo de caso de negocio empresariales de migración, pasando por las herramientas y plantillas de AWS y los programas de inversiones de AWS, hasta responder a las preguntas más desafiantes de los clientes. El programa ofrece acceso a contenido on-demand construido por el equipo de CE LatAm y sesión práctica que equivale a 16 horas de capacitación durante 4 semanas.\nPrevious Next \u0026nbsp; \u0026nbsp; Page: / AWS Cloud Value Framework\nForrester Explains the Total Economic Impact™ of Working with AWS Customer Enablement Services\n"
+},
+{
+	"uri": "/es/training/business-case/bc/",
+	"title": "2. - AWS Partner Migration Business Case",
+	"tags": [],
+	"description": "",
+	"content": "En este curso, aprenderá las mejores prácticas no técnicas para migrar cargas de trabajo a gran escala a la nube de AWS. También analizará los tres tipos de análisis que resume los argumentos comerciales para migrar a AWS.\n"
+},
+{
+	"uri": "/es/resources/cfm/cfm/",
+	"title": "2. - Cloud Financial Management",
+	"tags": [],
+	"description": "",
+	"content": "ESPAÑOL\nGetting Started with Cloud Financial Management\nPut your cloud cost on track\nManage and control your AWS costs\nOptimize your AWS cost and usage with Cloud Intelligence Dashboards\nSimplify your AWS cost estimation\nUnlocking the potential of AWS Cost Explorer\n"
+},
+{
+	"uri": "/es/training/",
+	"title": "Entrenamiento",
+	"tags": [],
+	"description": "",
+	"content": "Aqui va la explicación de que se busca con el entrenamiento\nCloud Economics Accreditation AWS Partner Migration Business Case Cloud Economics Overview Financials Overview Cost Optimization Levers Cloud Economics Tips \u0026amp; Tricks Tools Strategic Investments Hands on Business Case "
+},
+{
+	"uri": "/es/training/ce-overview/ce-over/",
+	"title": "3. - El resumen de Cloud Economics",
+	"tags": [],
+	"description": "",
+	"content": "Revisaremos un resumen de lo que hemos aprendido de la economía de la nube en este momento como guía para prepararnos para el próximo contenido.\n"
+},
+{
+	"uri": "/es/resources/map/map/",
+	"title": "3. - Migration Acceleration Program",
+	"tags": [],
+	"description": "",
+	"content": "Migration Acceleration Program (MAP)\nMigration Acceleration Program Overview\nMigration Acceleration Program (MAP) First Call Deck\nAWS Partner MAP Walking Deck\nMAP Tagging video:\n"
+},
+{
+	"uri": "/es/resources/",
+	"title": "Recursos adicionales",
+	"tags": [],
+	"description": "",
+	"content": "TEXTO\nTCO analysis with AWS services and Migration Portfolio Assessment\nAWS Partner: Migrating to AWS (Technical)\nAWS Partner: Migrating to AWS (Business) (Classroom)\nCloud Economics for Startups\nTraining de Assessment grabado (MRA, MPA, ME)\n"
+},
+{
+	"uri": "/es/training/fin-overview/fin-over/",
+	"title": "4. - Importancia de las Finanzas",
+	"tags": [],
+	"description": "",
+	"content": "Aprenderás lo que es importante escuchar para los CXO, las métricas financieras más importantes para el análisis de proyectos y la toma de decisiones\n"
+},
+{
+	"uri": "/es/resources/tools/too1/",
+	"title": "4. - Tools",
+	"tags": [],
+	"description": "",
+	"content": "ESPAÑOL\n"
+},
+{
+	"uri": "/es/training/cost-optimization/cost-opt/",
+	"title": "5. - Cost Optimization Levers",
+	"tags": [],
+	"description": "",
+	"content": "Conozca algunas técnicas y directrices sobre cómo AWS le permite tomar el control de los costos y optimizar continuamente sus gastos, al tiempo que crea aplicaciones modernas y escalables para satisfacer sus necesidades\n"
+},
+{
+	"uri": "/es/training/tips-tricks/tips/",
+	"title": "6. - Cloud Economics Tips &amp; Tricks",
+	"tags": [],
+	"description": "",
+	"content": "En este curso, revisaremos las mejores prácticas que Cloud Economics LatAm ha recopilado\n"
+},
+{
+	"uri": "/es/training/tools/too/",
+	"title": "7. - Herramientas",
+	"tags": [],
+	"description": "",
+	"content": "Esta es una descripción de alto nivel sobre cómo y cuándo utilizar Migration Evaluator y Migration Portfolio Assessment para soportar un caso de negocios.\n"
+},
+{
+	"uri": "/es/training/investments/invest/",
+	"title": "8 . - Inversiones Estrategicas",
+	"tags": [],
+	"description": "",
+	"content": "ESPAÑOL\nPrograma de aceleración de la migración Programa de descuentos ejecutivos Inversión en AWS "
+},
+{
+	"uri": "/es/training/hands-on/hands/",
+	"title": "9 . - Ejercicio de un Caso de Negocio",
+	"tags": [],
+	"description": "",
+	"content": "Siga la siguiente actividad y, cuando esté listo, envíe un correo electrónico a (añadir correo electrónico) para que un miembro del equipo de Cloud Economics valide su caso de negocio, lo ayude con sus dudas y lo apoye hasta el final de este viaje.\n"
+},
+{
+	"uri": "/es/",
+	"title": "AWS Cloud Economics",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/es/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/es/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
