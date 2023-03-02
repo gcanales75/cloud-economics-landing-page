@@ -7,7 +7,7 @@ pre = "<b>2. </b>"
 
 Aqui va la explicación de que se busca con el entrenamiento
 
-1. [Cloud Economics la Acreditación]({{< ref "accred.md" >}})
+1. [Acreditación Cloud Economics]({{< ref "accred.md" >}})
 
 1. [AWS Partner Migration Business Case]({{< ref "bc.md" >}})
 
