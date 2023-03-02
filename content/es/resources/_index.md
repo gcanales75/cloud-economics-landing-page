@@ -15,20 +15,18 @@ En esta sección encontrarás recursos no solo para fortalecer la práctica de C
 
 ### Entrenamiento para Partners
 
-<img src="../images/mig_to_aws_tech.png" alt="drawing"/>
+<a target="_blank" href="https://kiku.aws.training/SessionSearch?pageNumber=1&courseId=23615&languageId=1"><img src="../images/mig_to_aws_tech.png" alt="AWS Partner: Migrating to AWS (Technical)"/></a>
 
 Inscríbase al entrenamiento <a href="https://kiku.aws.training/SessionSearch?pageNumber=1&courseId=23615&languageId=1" target="_blank">AWS Partner: Migrating to AWS (Technical)</a>
 
-<img src="../images/mig_to_aws_business.png" alt="drawing"/>
+<a target="_blank" href="https://kiku.aws.training/SessionSearch?pageNumber=1&courseId=16351&languageId=1"><img src="../images/mig_to_aws_business.png" alt="AWS Partner: Migrating to AWS (Business) (Classroom)"/></a>
 
 Inscríbase al entrenamiento <a href="https://kiku.aws.training/SessionSearch?pageNumber=1&courseId=16351&languageId=1" target="_blank">AWS Partner: Migrating to AWS (Business) (Classroom)</a>
 
-<img src="../images/ce-startups.png" alt="drawing"/>
+<a target="_blank" href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12954/aws-cloud-economics-for-startups"><img src="../images/ce-startups.png" alt="Cloud Economics for Startups"/></a>
 
 Inscríbase al curso digital <a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12954/aws-cloud-economics-for-startups" target="_blank">Cloud Economics for Startups</a>
 
-<img src="../images/actualizacion-map.png" alt="drawing"/>
+<a target="_blank" href="https://attendee.gotowebinar.com/recording/3931553841237795587"><img src="../images/actualizacion-map.png" alt="Actualización de Incentivos del Programa de Aceleración de Migraciones (MAP)"/></a>
 
-<a href=" https://attendee.gotowebinar.com/recording/3931553841237795587" target="_blank">Actualización de Incentivos del Programa de Aceleración de Migraciones (MAP)</a>
-
-<a href=" https://attendee.gotowebinar.com/recording/3931553841237795587" target="_blank">Training de Assessment grabado (MRA, MPA, ME)</a>
+<a href="https://attendee.gotowebinar.com/recording/3931553841237795587" target="_blank">Actualización de Incentivos del Programa de Aceleración de Migraciones (MAP)</a>
