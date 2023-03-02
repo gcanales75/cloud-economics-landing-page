@@ -5,9 +5,13 @@ chapter = true
 pre = "<b>3. </b>"
 +++
 
-*TEXTO*
+En esta sección encontrarás recursos no solo para fortalecer la práctica de Cloud Economics que recien has aprendido, sino ambién para iniciar el siguiente paso natural de nuestros clientes, como lo es Cloud Financial Management que nos servira para aconsejarlos en la mejor forma de gestionar, optimizar y planear los costos en AWS. Adicional encontrás recursos de mejores prácticas de nuestros especialistas para continuar ayudandote a fortalecer la práctica consultiva de Tú organización.
 
-<a href="https://www.youtube.com/watch?v=2qautbhuJC8&list=PL2yQDdvlhXf86Sga89ti0__HzrARK7HEY" target="_blank">TCO analysis with AWS services and Migration Portfolio Assessment</a>
+1. [Business Value]({{< ref "biz.md" >}})
+
+1. [Cloud Financial Management]({{< ref "cfm.md" >}})
+
+1. [Migration Acceleration Program]({{< ref "map.md" >}})
 
 <a href="https://kiku.aws.training/SessionSearch?pageNumber=1&courseId=23615&languageId=1" target="_blank">AWS Partner: Migrating to AWS (Technical)</a>
 
