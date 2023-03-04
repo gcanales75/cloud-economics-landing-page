@@ -13,6 +13,6 @@ weight = 80
 
 {{< video src="../../../../img/20230228-MAPCECONPartnertraining-part1.mp4" type="video/mp4" preload="auto" >}}
 
-<br>
+<br><br>
 
 {{< video src="../../../../img/20230228-MAPCECONPartnertraining-part2.mp4" type="video/mp4" preload="auto" >}}

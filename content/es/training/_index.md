@@ -1,5 +1,5 @@
 +++ 
-title = "Entrenamiento" 
+title = "Business Value" 
 weight = 20
 chapter = true
 pre = "<b>2. </b>"

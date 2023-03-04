@@ -2,7 +2,7 @@
 title = "Recursos adicionales" 
 weight = 30
 chapter = true
-pre = "<b>3. </b>"
+pre = "<b>4. </b>"
 +++
 
 En esta sección encontrarás recursos no solo para fortalecer la práctica de Cloud Economics que recien has aprendido, sino ambién para iniciar el siguiente paso natural de nuestros clientes, como lo es Cloud Financial Management que nos servira para aconsejarlos en la mejor forma de gestionar, optimizar y planear los costos en AWS. Adicional encontrás recursos de mejores prácticas de nuestros especialistas para continuar ayudandote a fortalecer la práctica consultiva de Tú organización.
