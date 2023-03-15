@@ -13,7 +13,7 @@ El programa abarca una amplia gama de temas, de mejores prácticas de cálculo d
 
 **Esta es la presentación para el kickoff del entrenamiento**
 
-{{< pdfReader "files/partnerce.pdf" >}}
+{{< pdfReader "files/partnerce1.pdf" >}}
 
 <br><br>
 
