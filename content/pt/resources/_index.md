@@ -17,13 +17,13 @@ En esta sección encontrarás recursos no solo para fortalecer la práctica de C
 
 ### Entrenamiento para Partners
 
-<a target="_blank" href="https://kiku.aws.training/SessionSearch?pageNumber=1&courseId=23615&languageId=1"><img src="../images/mig_to_aws_tech.png" alt="AWS Partner: Migrating to AWS (Technical)"/></a>
+<a target="_blank" href="https://go.aws/3JnxT9x"><img src="../images/mig_to_aws_tech.png" alt="AWS Partner: Migrating to AWS (Technical)"/></a>
 
-Inscríbase al entrenamiento <a href="https://kiku.aws.training/SessionSearch?pageNumber=1&courseId=23615&languageId=1" target="_blank">AWS Partner: Migrating to AWS (Technical)</a>
+Inscríbase al entrenamiento <a href="https://go.aws/3JnxT9x" target="_blank">AWS Partner: Migrating to AWS (Technical)</a>
 
-<a target="_blank" href="https://kiku.aws.training/SessionSearch?pageNumber=1&courseId=16351&languageId=1"><img src="../images/mig_to_aws_business.png" alt="AWS Partner: Migrating to AWS (Business) (Classroom)"/></a>
+<a target="_blank" href="https://go.aws/3likZ4N"><img src="../images/mig_to_aws_business.png" alt="AWS Partner: Migrating to AWS (Business) (Classroom)"/></a>
 
-Inscríbase al entrenamiento <a href="https://kiku.aws.training/SessionSearch?pageNumber=1&courseId=16351&languageId=1" target="_blank">AWS Partner: Migrating to AWS (Business) (Classroom)</a>
+Inscríbase al entrenamiento <a href="https://go.aws/3likZ4N" target="_blank">AWS Partner: Migrating to AWS (Business) (Classroom)</a>
 
 <a target="_blank" href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12954/aws-cloud-economics-for-startups"><img src="../images/ce-startups.png" alt="Cloud Economics for Startups"/></a>
 
