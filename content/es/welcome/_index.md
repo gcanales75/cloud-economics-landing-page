@@ -23,7 +23,7 @@ El programa abarca una amplia gama de temas, de mejores prácticas de cálculo d
 
 <br><br>
 
-**¿Porque es importante este entrenamiento?**
+*¿Porque es importante este entrenamiento?*
 
 <br>
 
