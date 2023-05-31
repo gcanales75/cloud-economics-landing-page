@@ -51,9 +51,9 @@ defaultContentLanguage = 'es'
     title = "AWS Cloud Economics"
     weight = 1
     languageName = "Español"
-  [Languages.pt]
-    contentDir = "content/pt"
-    title = "AWS Cloud Economics"
-    weight = 2
-    languageName = "Português"
+#  [Languages.pt]
+#    contentDir = "content/pt"
+#    title = "AWS Cloud Economics"
+#    weight = 2
+#    languageName = "Português"
 
