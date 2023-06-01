@@ -1,6 +1,6 @@
 #!/bin/bash
 
-gitPush = $(git add . && git commit -m "first commit" && git push -u origin main)
+gitPush='git add . && git commit -m "first commit" && git push -u origin main'
 $(gitPush)
 
 cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-sipser/
