@@ -25,5 +25,14 @@ cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-clouxter
 git remote set-url origin https://github.com/gcanales75/ce-clouxter
 cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-applying
 git remote set-url origin https://github.com/gcanales75/ce-applying
+
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-globant
+git remote set-url origin https://github.com/gcanales75/ce-globant
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-pragma
+git remote set-url origin https://github.com/gcanales75/ce-pragma
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-tdsynnex
+git remote set-url origin https://github.com/gcanales75/ce-tdsynnex
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-canvia
+git remote set-url origin https://github.com/gcanales75/ce-canvia
 # cd back to HOME
 cd /Users/glcnl/Documents/Proyectos-Latam/cloud-economics-landing-page

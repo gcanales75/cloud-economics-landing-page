@@ -1,33 +1,76 @@
 #!/bin/bash
 
-gitPush='git add . && git commit -m "first commit" && git push -u origin main'
-$(gitPush)
+##Sit in HOME
+#cd /Users/glcnl/Documents/Proyectos-Latam/cloud-economics-landing-page
+## Add git variable
+#gitPush='git add . && git commit -m "first commit" && git push -u origin main'
+##Run
+#cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-sipser/
+#git add . && git commit -m "first commit" && git push
+#cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-morrisopazo/
+#git add . 
+#git commit -m "first commit"
+#git push
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-kyndryl/
+git add . 
+git commit -m "first commit"
+git push
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-cloudgenia/
+git add . 
+git commit -m "first commit"
+git push
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-rackspace/
+git add . 
+git commit -m "first commit"
+git push
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-xaldigital/
+git add . 
+git commit -m "first commit"
+git push
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-netrix/
+git add . 
+git commit -m "first commit"
+git push
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-escala24x7/
+git add . 
+git commit -m "first commit"
+git push
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-totalcloud/
+git add . 
+git commit -m "first commit"
+git push
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-sophos/
+git add . 
+git commit -m "first commit"
+git push
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-itera/
+git add . 
+git commit -m "first commit"
+git push
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-clouxter/
+git add . 
+git commit -m "first commit"
+git push
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-applying/
+git add . 
+git commit -m "first commit"
+git push
 
-cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-sipser/
-
-cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-morrisopazo
-
-cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-kyndryl
-
-cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-cloudgenia
-
-cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-rackspace
-
-cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-xaldigital
-
-cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-netrix
-
-cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-escala24x7
-
-cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-totalcloud
-
-cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-sophos
-
-cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-itera
-
-cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-clouxter
-
-cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-applying
-
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/globant/
+git add . 
+git commit -m "first commit"
+git push
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/pragma/
+git add . 
+git commit -m "first commit"
+git push
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/tdsynnex/
+git add . 
+git commit -m "first commit"
+git push
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/canvia/
+git add . 
+git commit -m "first commit"
+git push
 # cd back to HOME
 cd /Users/glcnl/Documents/Proyectos-Latam/cloud-economics-landing-page
