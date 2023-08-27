@@ -7,10 +7,10 @@
 ##Run
 #cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-sipser/
 #git add . && git commit -m "first commit" && git push
-#cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-morrisopazo/
-#git add . 
-#git commit -m "first commit"
-#git push
+cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-morrisopazo/
+git add . 
+git commit -m "update"
+git push -u origin main
 cd /Users/glcnl/Documents/Proyectos-Latam/ce-partner-sites/ce-kyndryl/
 git add . 
 git commit -m "first commit"
@@ -74,3 +74,9 @@ git commit -m "first commit"
 git push
 # cd back to HOME
 cd /Users/glcnl/Documents/Proyectos-Latam/cloud-economics-landing-page
+
+
+
+
+## Change remote
+git remote set-url origin https://github.com/gcanales75/ce-morrisopazo.git

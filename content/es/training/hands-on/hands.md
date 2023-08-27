@@ -7,12 +7,12 @@ Este es el último punto del Cloud Economics Partner Training, en esta sección 
 
 Archivos a utilizar:
 
-1. Lee detenidamente el archivo <a href="https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/3b13502c24d042f7941ef888bac23e9c/v1/LatAm_Case_Study-es.pdf" target="_blank">**LatAm Case Study-es**</a>
+1. Lee detenidamente el archivo <a href="https://d3csjjh7wiff1l.cloudfront.net/LatAm_Case_Study-es.pdf" target="_blank">**LatAm Case Study-es**</a>
 
-1. Utiliza el archivo <a href="https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/3b13502c24d042f7941ef888bac23e9c/v1/AWS_LatAm_CEPT_Case_Study_-_AnyCompany_ABC_-_Discovery_data.xlsx" target="_blank">**AWS LatAm CEPT Case Study - AnyCompany ABC - Discovery data**</a>, para realizar el dimensionamiento que consideres.
+1. Utiliza el archivo <a href="https://d3csjjh7wiff1l.cloudfront.net/AWS_LatAm_CEPT_Case_Study_-_AnyCompany_ABC_-_Discovery_data.xlsx" target="_blank">**AWS LatAm CEPT Case Study - AnyCompany ABC - Discovery data**</a>, para realizar el dimensionamiento que consideres.
 
 1. Para la capa de presentación al cliente utiliza las siguientes plantillas (si cuentas con las propias siéntete libre de utilizarlas).
 
-    - <a href="https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/3b13502c24d042f7941ef888bac23e9c/v1/AWS_LatAm_CEPT_PPT_Summary.pptx" target="_blank">**AWS LatAm CEPT PPT Summary**</a>
+    - <a href="https://d3csjjh7wiff1l.cloudfront.net/AWS_LatAm_CEPT_PPT_Summary.pptx" target="_blank">**AWS LatAm CEPT PPT Summary**</a>
 
     - Cash-Flow Template
